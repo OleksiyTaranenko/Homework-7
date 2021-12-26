@@ -1,0 +1,12 @@
+.products {
+    min-height: 100vh;
+}
+.products h1 {
+    display: block;
+    margin-top: 30px;
+}
+.products ul li {
+    margin-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}

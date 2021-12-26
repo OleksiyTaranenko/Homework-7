@@ -1,0 +1,34 @@
+.products-details {
+    min-height: 100vh;
+}
+.products-details h1 {
+    display: block;
+    margin-top: 20px;
+    font-size: x-large;
+}
+.products-details p {
+    display: block;
+    font-size: x-large;
+}
+.products-details button {
+    float: left;
+    margin-right: 5px;
+    font-size: x-large;
+}
+.products-details div {
+    margin-top: 40px;
+    font-size: x-large;
+}
+.products-details img {
+    width: 300px;
+    padding: 40px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.products-details span {
+    font-size: larger;
+    margin: 10px 5px;
+}
+.products-details div {
+    margin-left: 0px;
+}

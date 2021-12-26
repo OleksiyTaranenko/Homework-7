@@ -1,0 +1,15 @@
+.basketPage {
+    min-height: 100vh;
+}
+.basketField {
+    border: 2px solid gray;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 655px;
+}
+.basketField h3 {
+    margin-left: 5px;
+}
+.basketField div {
+    margin: 5px;
+}

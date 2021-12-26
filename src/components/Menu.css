@@ -1,0 +1,35 @@
+.menu {
+    background-color: #29c5f6;
+    border-radius: 5px;
+    padding: 1px;
+}
+.storeName {
+    float: left;
+    padding: 5px;
+    margin-top: 3px;
+    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    font-weight: 900;
+    color: whitesmoke;
+}
+.menu ul {
+    display: flex;
+    flex-direction: row; 
+}
+.menu ul li {
+    margin-left: 100px;
+    list-style-type: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.active {
+    color: whitesmoke;
+}
+.basket {
+    width: 30px;
+    margin-left: 90px;
+}
+.basket:hover {
+    color: whitesmoke;
+}
